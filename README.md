@@ -7,6 +7,8 @@ I'm currently learning SQL and delving deeper into NLP.
 I aspire to build production-grade solutions to a multitude of problems.
 I am mostly interested in optimising the use of resources but I am open to any type of problem to help keep my mind agile. 
 
+Feel free to browse through my public repositories.
+
 
 
 <!---

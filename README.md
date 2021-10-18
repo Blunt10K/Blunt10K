@@ -1,4 +1,4 @@
-Hi, I’m Kenny. I'a a recent AI graduate currently in the Netherlands. 
+Hi, I’m Kenny. I'm a recent AI graduate currently in the Netherlands. 
 
 I'm interested in data science, robotics, AI applications and have a passing interest in operating systems and networks.
 
